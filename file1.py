@@ -1,1 +1,1 @@
-hghvh76867
+print ("hello world")
