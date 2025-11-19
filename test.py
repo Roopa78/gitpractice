@@ -1,4 +1,4 @@
 hi,hello
-yes
-print(a)
-prit(b)
+print(x)
+print(y)
+print(z)
