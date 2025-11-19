@@ -1,2 +1,3 @@
+a=b
 print(a)
-prit(b)
+print(b)
